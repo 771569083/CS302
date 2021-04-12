@@ -1,0 +1,4 @@
+CS302 SUSTech, in child
+Ending main: 0
+CS302 SUSTech, in parent
+Ending main: 4060
